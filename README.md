@@ -16,3 +16,8 @@ Print a Binary Tree in Vertical Order using level order and horizontal dist - ht
 Print Nodes in Top View of Binary Tree - https://ideone.com/EMbaRg
 
 Print Nodes in bottom View of Binary Tree - https://ideone.com/EAUgct
+
+Sum of all nodes - https://ideone.com/IoiCi6
+
+check if a tree is a Sum tree - https://ideone.com/ygv9zP
+
